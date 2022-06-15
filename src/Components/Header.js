@@ -18,61 +18,25 @@ function Header() {
         <div className="gradient_container_bottom"></div>
         <section className="header-nav-area">
           <div className="brand_area">
-            <div className="brand1">
-              <a
-                className="nasa_logo"
-                href="http://www.nasa.gov"
-                target="_blank"
-                title="visit nasa.gov"
-              >
-                NASA
-              </a>
-            </div>
-            <div className="brand2">
-              <a
-                className="top_logo"
-                href="https://science.nasa.gov/"
-                target="_blank"
-                title="Explore NASA Science"
-              >
-                NASA Science
-              </a>
-              <a className="sub_logo" href="/mars-exploration/#" title="Mars">
-                Mars Exploration Program
-              </a>
-            </div>
+          <img src="headshot-avatar.png" alt="Headshot" width="100" height="120"></img>
+            H. Mark Estrada
           </div>
           <div id="nav_container">
             <nav id="navigation">
               <a href="" className="nav-element">
-                The Red Planet
+                About Me
               </a>
               <a href="" className="nav-element">
-                The Program
+                Portfolio
               </a>
               <a href="" className="nav-element">
-                News & Events
+                Contact
               </a>
               <a href="" className="nav-element">
-                Multimedia
-              </a>
-              <a href="" className="nav-element">
-                Missions
-              </a>
-              <a href="" className="nav-element">
-                More
+                Resume
               </a>
             </nav>
-            <form className="meganav_search" action="/search/">
-              <input
-                type="text"
-                className="search_field "
-                name="q"
-                defaultValue=""
-                placeholder=""
-              />
-              <div className="search_submit"></div>
-            </form>
+            
           </div>
           <span className="menu-icon"></span>
         </section>
