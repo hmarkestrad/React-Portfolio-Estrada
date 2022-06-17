@@ -32,26 +32,42 @@ function App() {
   });
 
   return (
-    <><div className="header">
-        <div class="badge">
-          <img src="temp_icon.jpg" width="100px"></img>
-          H. Mark Estrada
-        </div>
-        <div class="navigation">
-          <ul>
-            <li><a href="#about">About Me</a></li>
-            <li><a href="#portfolio">Portfolio</a></li>
-            <li><a href="#contact">Contact</a></li>
-            <li><a href="#resume">Resume</a></li>
-          </ul>
-        </div>
+  <>
+  <div class="content">
+    <div class="header">
+      <div class="badge">
+        <img src="temp_icon.jpg" width="50px"></img>
+        H. Mark Estrada | Portfolio
       </div>
-    <div class="main">
-      <p><h1>MAIN</h1></p> 
+      <div class="navigation">
+        <ul>
+          <li class="crumb"><a href="#resume">Resume</a></li>
+          <li class="crumb"><a href="#contact">Contact</a></li>
+          <li class="crumb"><a href="#portfolio">Portfolio</a></li>
+          <li class="crumb"><a href="#about">About Me</a></li>
+          <li class="crumb"><a href="#home">Home</a></li>
+        </ul>
+      </div>
     </div>
-    <div class="footer">
-      <p>Footer</p> 
-    </div></>
+    <div class="main">
+      <h4>About Me</h4>
+      <p>I have over 25 years of experience in medical device design, development, manufacturing and commercialization. I have participated in numerous mergers and acquisitions, as well as in the design, licensing and/or sale of many products currently on the market today. I love to dig into customer problems and solve them with modern technology. I create, scale and optimize product portfolios that matter. To accomplish this, I focus on key results. build amazing teams and guickly adapt to new Insignts. I have enjoyed many executive positions througnout my career In product management, product marketing technical sales, engineering, and strategy. I have four children, three boys and one daughter. I am an avid gardner, I love to cook and enjoy traveling.</p>
+
+      <h4>Portfolio</h4>
+      <p>The design space is awash with countless design tools, plugins, websites, resources, and more promising to improve your workflow and make you a savvier designer. I have tried my hand at a lot of them over the years, but there are only a few that really stand out. This list is the cream of the crop - the most obscure, creative, unique, helpful or exceptional. Some are fun sites to be inspired from and others are tools and resources that will absolutely make you a better designer.</p>
+
+      <h4>Contact</h4>
+      <p>I have over 25 years of experience in medical device design, development, manufacturing and commercialization. I have participated in numerous mergers and acquisitions, as well as in the design, licensing and/or sale of many products currently on the market today. I love to dig into customer problems and solve them with modern technology. I create, scale and optimize product portfolios that matter. To accomplish this, I focus on key results. build amazing teams and guickly adapt to new Insignts. I have enjoyed many executive positions througnout my career In product management, product marketing technical sales, engineering, and strategy. I have four children, three boys and one daughter. I am an avid gardner, I love to cook and enjoy traveling.</p>
+
+      <h4>Resume</h4>
+      <p>I have over 25 years of experience in medical device design, development, manufacturing and commercialization. I have participated in numerous mergers and acquisitions, as well as in the design, licensing and/or sale of many products currently on the market today. I love to dig into customer problems and solve them with modern technology. I create, scale and optimize product portfolios that matter. To accomplish this, I focus on key results. build amazing teams and guickly adapt to new Insignts. I have enjoyed many executive positions througnout my career In product management, product marketing technical sales, engineering, and strategy. I have four children, three boys and one daughter. I am an avid gardner, I love to cook and enjoy traveling.</p>
+
+      <h4>Professional Skills</h4>
+      <p>I have over 25 years of experience in medical device design, development, manufacturing and commercialization. I have participated in numerous mergers and acquisitions, as well as in the design, licensing and/or sale of many products currently on the market today. I love to dig into customer problems and solve them with modern technology. I create, scale and optimize product portfolios that matter. To accomplish this, I focus on key results. build amazing teams and guickly adapt to new Insignts. I have enjoyed many executive positions througnout my career In product management, product marketing technical sales, engineering, and strategy. I have four children, three boys and one daughter. I am an avid gardner, I love to cook and enjoy traveling.</p>
+    </div>
+    <div class="footer">footer</div>
+  </div>
+  </>
 
   );
 }
