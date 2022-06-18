@@ -32,30 +32,29 @@
   }
 }
 
-ul {
+.navigation ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
   overflow: hidden;
 }
 
-li {
+.navigation li {
   float: right;
 }
 
-li a {
+.navigation li a {
   display: block;
   color: rgb(120, 120, 120);
   text-align: center;
   padding-left: 12px;
   padding-right: 12px;
-  padding-bottom: 4px;
+  padding-bottom: 10px;
   padding-top: 40px;
   text-decoration: none;
-  font-size: .75rem;
 }
 
-li a:hover:not(.active) {
+.navigation li a:hover:not(.active) {
   color: rgb(255, 0, 0);
   border-bottom: solid 2px rgb(255, 0, 0);
 }
@@ -70,19 +69,20 @@ li a:hover:not(.active) {
 }
 
 .main {
-  width: 80%;
+  width: 60%;
   margin-left: auto;
   margin-right: auto;
-  margin-bottom: 24px;
+  margin-bottom: 2.0rem;
   margin-top: 10px;
-  padding-left: 40px;
-  padding-right: 40px;
-  padding-top: 12px;
-  padding-bottom: 20px;
+  padding-left: 60px;
+  padding-right: 60px;
+  padding-top: 24px;
+  padding-bottom: 3.0rem;
   background-color: white;
   border-radius: 16px;
-  display: block;
 }
+
+
 
 .content {
   width: 100%;
@@ -91,29 +91,29 @@ li a:hover:not(.active) {
 }
 
 .header {
-  height: 54px;
+  height: 100px;
   width: 100%;
   border-bottom: solid 1px rgb(120, 120, 120);
-  padding: 6px;
+  padding: 20px;
   background-color: white;
 }
 
 .badge {
   float: left;
-  font-size: 20px;
-  padding-bottom: 30px;
+  font-size: 2.0rem;
 }
 
 .navigation {
-  padding-right: 20px;
+  padding-top: 2.5rem;
+  padding-right: 6.0rem;
   float: right;
+  font-size: 1.0rem;
 }
 
 h4 {
-  margin: 0px;
-  padding: 0px;
+  margin-bottom: 12px;
   font-weight: normal;
-  font-size: 1.2rem;
+  font-size: 1.5rem;
 }
 
 p {

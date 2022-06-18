@@ -36,7 +36,7 @@ function App() {
   <div class="content">
     <div class="header">
       <div class="badge">
-        <img src="temp_icon.jpg" width="50px"></img>
+        <img src="temp_icon.jpg" width="100px"></img>
         H. Mark Estrada | Portfolio
       </div>
       <div class="navigation">
@@ -50,20 +50,43 @@ function App() {
       </div>
     </div>
     <div class="main">
-      <h4>About Me</h4>
-      <p>I have over 25 years of experience in medical device design, development, manufacturing and commercialization. I have participated in numerous mergers and acquisitions, as well as in the design, licensing and/or sale of many products currently on the market today. I love to dig into customer problems and solve them with modern technology. I create, scale and optimize product portfolios that matter. To accomplish this, I focus on key results. build amazing teams and guickly adapt to new Insignts. I have enjoyed many executive positions througnout my career In product management, product marketing technical sales, engineering, and strategy. I have four children, three boys and one daughter. I am an avid gardner, I love to cook and enjoy traveling.</p>
+        <div class="about">
+          <h4>About Me</h4>
+            <p>I have over 25 years of experience in medical device design, development, manufacturing and commercialization. I have participated in numerous mergers and acquisitions, as well as in the design, licensing and/or sale of many products currently on the market today. I love to dig into customer problems and solve them with modern technology. I create, scale and optimize product portfolios that matter. To accomplish this, I focus on key results. build amazing teams and guickly adapt to new Insignts. I have enjoyed many executive positions througnout my career In product management, product marketing technical sales, engineering, and strategy. I have four children, three boys and one daughter. I am an avid gardner, I love to cook and enjoy traveling.
+            </p>
+      </div>
 
-      <h4>Portfolio</h4>
-      <p>The design space is awash with countless design tools, plugins, websites, resources, and more promising to improve your workflow and make you a savvier designer. I have tried my hand at a lot of them over the years, but there are only a few that really stand out. This list is the cream of the crop - the most obscure, creative, unique, helpful or exceptional. Some are fun sites to be inspired from and others are tools and resources that will absolutely make you a better designer.</p>
+      <div class="portfolio">
+        <h4>Portfolio</h4>
+          <p>The design space is awash with countless design tools, plugins, websites, resources, and more promising to improve your workflow and make you a savvier designer. I have tried my hand at a lot of them over the years, but there are only a few that really stand out. This list is the cream of the crop - the most obscure, creative, unique, helpful or exceptional. Some are fun sites to be inspired from and others are tools and resources that will absolutely make you a better designer.</p>
+      </div>
 
-      <h4>Contact</h4>
-      <p>I have over 25 years of experience in medical device design, development, manufacturing and commercialization. I have participated in numerous mergers and acquisitions, as well as in the design, licensing and/or sale of many products currently on the market today. I love to dig into customer problems and solve them with modern technology. I create, scale and optimize product portfolios that matter. To accomplish this, I focus on key results. build amazing teams and guickly adapt to new Insignts. I have enjoyed many executive positions througnout my career In product management, product marketing technical sales, engineering, and strategy. I have four children, three boys and one daughter. I am an avid gardner, I love to cook and enjoy traveling.</p>
+      <div class="contact">
+        <h4>Contact</h4>
+        <p> H. Mark Estrada
+            128 Lido St. Lakeway Texas 78734
+            Telephone: 512 870-7631
+            h.mark.estrada@gmail.com
+        </p>
+      </div>
 
-      <h4>Resume</h4>
-      <p>I have over 25 years of experience in medical device design, development, manufacturing and commercialization. I have participated in numerous mergers and acquisitions, as well as in the design, licensing and/or sale of many products currently on the market today. I love to dig into customer problems and solve them with modern technology. I create, scale and optimize product portfolios that matter. To accomplish this, I focus on key results. build amazing teams and guickly adapt to new Insignts. I have enjoyed many executive positions througnout my career In product management, product marketing technical sales, engineering, and strategy. I have four children, three boys and one daughter. I am an avid gardner, I love to cook and enjoy traveling.</p>
+      <div class="resume">
+        <h4>Resume</h4>
+          <ul>
+            <li><strong>Next Cast & Brace</strong> - VP Operations (2016 to Present)</li>
+            <li><strong>Insight Dental Systems</strong> - VP Research (2014 to 2016)</li>
+            <li><strong>Encore Orthopedics</strong> - Trauma Product Manager (1998 to 2000)</li>
+            <li><strong>Johnson & Johnson DePuy</strong> - Trauma Sales Manager (1996 to 1998)</li>
+            <li><strong>Kingwood Medical Center</strong> - Surgical Technician (1990 to 1996)</li>
+            <li><strong>United States Navy</strong> - Balboa Naval Hospital (1986 to 1990)</li>
+          </ul>
+      </div>
 
-      <h4>Professional Skills</h4>
-      <p>I have over 25 years of experience in medical device design, development, manufacturing and commercialization. I have participated in numerous mergers and acquisitions, as well as in the design, licensing and/or sale of many products currently on the market today. I love to dig into customer problems and solve them with modern technology. I create, scale and optimize product portfolios that matter. To accomplish this, I focus on key results. build amazing teams and guickly adapt to new Insignts. I have enjoyed many executive positions througnout my career In product management, product marketing technical sales, engineering, and strategy. I have four children, three boys and one daughter. I am an avid gardner, I love to cook and enjoy traveling.</p>
+      <div>
+        <h4>Professional Skills</h4>
+          <p>I have over 25 years of experience in medical device design, development, manufacturing and commercialization. I have participated in numerous mergers and acquisitions, as well as in the design, licensing and/or sale of many products currently on the market today. I love to dig into customer problems and solve them with modern technology. I create, scale and optimize product portfolios that matter. To accomplish this, I focus on key results. build amazing teams and guickly adapt to new Insignts. I have enjoyed many executive positions througnout my career In product management, product marketing technical sales, engineering, and strategy. I have four children, three boys and one daughter. I am an avid gardner, I love to cook and enjoy traveling.
+          </p>
+      </div>
     </div>
     <div class="footer">footer</div>
   </div>
