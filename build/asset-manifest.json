@@ -1,22 +1,15 @@
 {
-  "files": {
-    "main.css": "/static/css/main.9a3c5e3b.chunk.css",
-    "main.js": "/static/js/main.5b3c5d86.chunk.js",
-    "main.js.map": "/static/js/main.5b3c5d86.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.8e786a5d.js",
-    "runtime-main.js.map": "/static/js/runtime-main.8e786a5d.js.map",
-    "static/js/2.a930ff14.chunk.js": "/static/js/2.a930ff14.chunk.js",
-    "static/js/2.a930ff14.chunk.js.map": "/static/js/2.a930ff14.chunk.js.map",
-    "static/js/3.4e0ef170.chunk.js": "/static/js/3.4e0ef170.chunk.js",
-    "static/js/3.4e0ef170.chunk.js.map": "/static/js/3.4e0ef170.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.9a3c5e3b.chunk.css.map": "/static/css/main.9a3c5e3b.chunk.css.map",
-    "static/js/2.a930ff14.chunk.js.LICENSE.txt": "/static/js/2.a930ff14.chunk.js.LICENSE.txt"
-  },
-  "entrypoints": [
-    "static/js/runtime-main.8e786a5d.js",
-    "static/js/2.a930ff14.chunk.js",
-    "static/css/main.9a3c5e3b.chunk.css",
-    "static/js/main.5b3c5d86.chunk.js"
-  ]
+  "main.css": "/hmarkestrad/React-Portfolio-Estrada/static/css/main.5efb5470.chunk.css",
+  "main.js": "/hmarkestrad/React-Portfolio-Estrada/static/js/main.c28816f7.chunk.js",
+  "main.js.map": "/hmarkestrad/React-Portfolio-Estrada/static/js/main.c28816f7.chunk.js.map",
+  "static/js/1.33a958d7.chunk.js": "/hmarkestrad/React-Portfolio-Estrada/static/js/1.33a958d7.chunk.js",
+  "static/js/1.33a958d7.chunk.js.map": "/hmarkestrad/React-Portfolio-Estrada/static/js/1.33a958d7.chunk.js.map",
+  "static/js/2.665a0c74.chunk.js": "/hmarkestrad/React-Portfolio-Estrada/static/js/2.665a0c74.chunk.js",
+  "static/js/2.665a0c74.chunk.js.map": "/hmarkestrad/React-Portfolio-Estrada/static/js/2.665a0c74.chunk.js.map",
+  "runtime~main.js": "/hmarkestrad/React-Portfolio-Estrada/static/js/runtime~main.1f72b489.js",
+  "runtime~main.js.map": "/hmarkestrad/React-Portfolio-Estrada/static/js/runtime~main.1f72b489.js.map",
+  "static/css/main.5efb5470.chunk.css.map": "/hmarkestrad/React-Portfolio-Estrada/static/css/main.5efb5470.chunk.css.map",
+  "index.html": "/hmarkestrad/React-Portfolio-Estrada/index.html",
+  "precache-manifest.a789c8432b3f0c2a819305838b2e447d.js": "/hmarkestrad/React-Portfolio-Estrada/precache-manifest.a789c8432b3f0c2a819305838b2e447d.js",
+  "service-worker.js": "/hmarkestrad/React-Portfolio-Estrada/service-worker.js"
 }
