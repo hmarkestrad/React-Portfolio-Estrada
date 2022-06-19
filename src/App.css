@@ -76,7 +76,7 @@
   margin-top: 30px;
   padding-left: 60px;
   padding-right: 60px;
-  padding-top: 20px;
+  padding-top: 50px;
   padding-bottom: 3.0rem;
   background-color: white;
   border-radius: 16px;
@@ -109,7 +109,8 @@
 }
 
 h4 {
-  margin-bottom: 12px;
+  margin-top: 2.0rem;
+  margin-bottom: 1rem;
   font-weight: normal;
   font-size: 1.5rem;
 }
@@ -117,4 +118,51 @@ h4 {
 p {
   margin: 0px;
   padding: 0px;
+}
+
+input {
+  font-size: 1.0rem;
+  margin-bottom: 20px;
+}
+
+.form {
+  width: 95%;
+  border: #707070 solid 1px;
+  padding: 2.5%;
+}
+
+textarea {
+  width: 100%;
+  font-size: 1.0rem;
+}
+
+.grid-container1 {
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+  grid-gap: 10px;
+  font-size: .75rem; 
+}
+
+.grid-container1 > div {
+  background-color: rgb(255, 255, 255);
+  border-left: 1px solid black;
+  padding-left: 8px;
+}
+
+.grid-container {
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+  grid-gap: 10px;
+  padding-top: 1rem;
+  text-align: center;
+  font-size: 1.0rem;
+  text-decoration: none;
+}
+
+.grid-container  a {
+  text-decoration: none;
+}
+
+.grid-container > div {
+  background-color: rgb(255, 255, 255);
 }
