@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "c28816f795bc378a8460",
-    "url": "/hmarkestrad/React-Portfolio-Estrada/static/css/main.5efb5470.chunk.css"
+    "revision": "54416bb5ffc8c96decf5",
+    "url": "/hmarkestrad/React-Portfolio-Estrada/static/css/main.384f4d65.chunk.css"
   },
   {
-    "revision": "c28816f795bc378a8460",
-    "url": "/hmarkestrad/React-Portfolio-Estrada/static/js/main.c28816f7.chunk.js"
+    "revision": "54416bb5ffc8c96decf5",
+    "url": "/hmarkestrad/React-Portfolio-Estrada/static/js/main.54416bb5.chunk.js"
   },
   {
     "revision": "33a958d7cb7b3333480f",
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/hmarkestrad/React-Portfolio-Estrada/static/js/runtime~main.1f72b489.js"
   },
   {
-    "revision": "94573e348f4dcb2de34ea27999523b09",
+    "revision": "67080e65653974a5f566b2ceb4e7d6e6",
     "url": "/hmarkestrad/React-Portfolio-Estrada/index.html"
   }
 ];

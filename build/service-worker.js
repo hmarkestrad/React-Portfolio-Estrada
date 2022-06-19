@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/hmarkestrad/React-Portfolio-Estrada/precache-manifest.a789c8432b3f0c2a819305838b2e447d.js"
+  "/hmarkestrad/React-Portfolio-Estrada/precache-manifest.7aa901e429ff0b878d62250ddec0d266.js"
 );
 
 workbox.clientsClaim();
