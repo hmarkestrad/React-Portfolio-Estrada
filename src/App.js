@@ -139,7 +139,10 @@ function App() {
           <p>HTML - Hypertext Markup  |  MySQL & SQL Databases  |  PHP - Hypertext Preprocessor  |  React</p>
       </div>
     </div>
-    <div class="footer">footer</div>
+    <div class="footer">
+      <p><img src="logo_insta.png" width="20px"></img> <a href="https://www.instagram.com/markestrada98/" target="_blank">https://www.instagram.com/markestrada98/</a></p>
+      <p><img src="logo_linkedIn.png" width="20px"></img> <a href="https://www.linkedin.com/in/mark-estrada-28aa873a/" target="_blank">https://www.linkedin.com/in/mark-estrada-28aa873a/</a></p>
+      <p><img src="logo_github.png" width="20px"></img> <a href="https://github.com/hmarkestrad" target="_blank">https://github.com/hmarkestrad</a></p></div>
   </div>
   </>
 

@@ -63,11 +63,6 @@
   background-color: #888888;
 }
 
-.footer {
-  width: 100%;
-  display: block;
-}
-
 .main {
   width: 60%;
   margin-left: auto;
@@ -165,4 +160,13 @@ textarea {
 
 .grid-container > div {
   background-color: rgb(255, 255, 255);
+}
+
+.footer {
+  width: 60%;
+  display: block;
+  padding-bottom: 2rem;
+  margin-left: auto;
+  margin-right: auto;
+  text-decoration: none;
 }
